@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-komicaappsync-dev-124217-authRole",
+      "UnauthRoleArn": "arn:aws:iam::969776445125:role/amplify-komicaappsync-dev-124217-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::969776445125:role/amplify-komicaappsync-dev-124217-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-komicaappsync-dev-124217-deployment",
+      "UnauthRoleName": "amplify-komicaappsync-dev-124217-unauthRole",
+      "StackName": "amplify-komicaappsync-dev-124217",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:969776445125:stack/amplify-komicaappsync-dev-124217/ea288530-c813-11eb-a886-0ae50d78b71b",
+      "AmplifyAppId": "d168w49bt76s7y"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+projects:
+  komica:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - src/graphql/**/*.ts
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: typescript
+        generatedFileName: src/API.ts
+        docsFilePath: src/graphql
+        region: ap-northeast-1
+        apiId: 5w5ka7vjozdhfpcytcy6e4lwlq
+        maxDepth: 2
